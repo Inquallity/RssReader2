@@ -1,0 +1,33 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 20
+    buildToolsVersion "20.0.0"
+
+    defaultConfig {
+        applicationId "com.example.inquallity.rssreader2"
+        minSdkVersion 15
+        targetSdkVersion 20
+        versionCode 1
+        versionName "1.0"
+    }
+    buildTypes {
+        release {
+            runProguard false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+
+dependencies {
+    compile 'com.squareup.retrofit:retrofit:1.6.+'
+    compile 'com.squareup.okhttp:okhttp-urlconnection:2.0.+'
+    compile 'com.squareup.okhttp:okhttp:2.0.+'
+    compile 'com.squareup.picasso:picasso:2.3.+'
+    compile('com.squareup.retrofit:converter-simplexml:1.6.+')
+            {
+                exclude module: 'stax'
+                exclude module: 'stax-api'
+                exclude module: 'xpp3'
+            }
+}

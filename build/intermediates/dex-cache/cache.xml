@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="C:\Users\Inquallity\AndroidStudioProjects\RssReader2\app\build\intermediates\pre-dexed\debug\okio-1.0.0-d89886b5dbc5dd21c6fd9c08131281c4ec2b782f.jar"
+        jar="C:\Users\Inquallity\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.0.0\2534c458682c73f5b9871131ab3098d3f987ca3\okio-1.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="02534c458682c73f5b9871131ab3098d3f987ca3"/>
+    <item
+        dex="C:\Users\Inquallity\AndroidStudioProjects\RssReader2\app\build\intermediates\pre-dexed\debug\gson-2.2.4-21afff7fc87ea0e13f23995193a61aafdf4ff821.jar"
+        jar="C:\Users\Inquallity\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.2.4\a60a5e993c98c864010053cb901b7eab25306568\gson-2.2.4.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568"/>
+    <item
+        dex="C:\Users\Inquallity\AndroidStudioProjects\RssReader2\app\build\intermediates\pre-dexed\debug\simple-xml-2.7.1-fdbf2021cf71c569865027b3b36194b361598f73.jar"
+        jar="C:\Users\Inquallity\.gradle\caches\modules-2\files-2.1\org.simpleframework\simple-xml\2.7.1\dd91fb744c2ff921407475cb29a1e3fee397d411\simple-xml-2.7.1.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="dd91fb744c2ff921407475cb29a1e3fee397d411"/>
+    <item
+        dex="C:\Users\Inquallity\AndroidStudioProjects\RssReader2\app\build\intermediates\pre-dexed\debug\okhttp-urlconnection-2.0.0-9aa7befa5136f940b9af93a7a97adad2c91a9c00.jar"
+        jar="C:\Users\Inquallity\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp-urlconnection\2.0.0\afe8399d352713b66e597e9670c741d1e60ae923\okhttp-urlconnection-2.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="afe8399d352713b66e597e9670c741d1e60ae923"/>
+    <item
+        dex="C:\Users\Inquallity\AndroidStudioProjects\RssReader2\app\build\intermediates\pre-dexed\debug\picasso-2.3.4-091fa25b7d8a3c41b59b0f3a5c2924f07ba0198e.jar"
+        jar="C:\Users\Inquallity\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.3.4\3b646ddbdac8a33fc45b64564011da81d23e4635\picasso-2.3.4.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="3b646ddbdac8a33fc45b64564011da81d23e4635"/>
+    <item
+        dex="C:\Users\Inquallity\AndroidStudioProjects\RssReader2\app\build\intermediates\pre-dexed\debug\converter-simplexml-1.6.1-0b3578425605fb9a4ed189c03491772547130a2e.jar"
+        jar="C:\Users\Inquallity\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit\converter-simplexml\1.6.1\44a1b22f8f3a27109d6cefc355ecfbfed98f1917\converter-simplexml-1.6.1.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="44a1b22f8f3a27109d6cefc355ecfbfed98f1917"/>
+    <item
+        dex="C:\Users\Inquallity\AndroidStudioProjects\RssReader2\app\build\intermediates\pre-dexed\debug\okhttp-2.0.0-80b10b1f7d4f48d6caf2ef20b9ff1823fac4a6b9.jar"
+        jar="C:\Users\Inquallity\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.0.0\4c8d1536dba3812cc1592090dc20c47a4ed3c35e\okhttp-2.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="4c8d1536dba3812cc1592090dc20c47a4ed3c35e"/>
+    <item
+        dex="C:\Users\Inquallity\AndroidStudioProjects\RssReader2\app\build\intermediates\pre-dexed\debug\retrofit-1.6.1-26faf0bb1a33e585b20757c58e103a1865a61507.jar"
+        jar="C:\Users\Inquallity\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit\retrofit\1.6.1\efb0a36546aa8857ab8df358b106c1817e03cbee\retrofit-1.6.1.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="efb0a36546aa8857ab8df358b106c1817e03cbee"/>
+
+</pre-dex-items>

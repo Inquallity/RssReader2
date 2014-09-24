@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">RssReader2</string>
+    <string name="channe_icon_description">Картинка к каналу новостей</string>
+
+</resources>
